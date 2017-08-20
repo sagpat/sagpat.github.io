@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Hello!  
+#### Hello!  
 I study Computer Science and a software developer at Syntel Ltd., Pune India. I have total two years of experience working in software industry.  
 1. I mostly work in Web Development and host my work on GitHub.
 2. On this blog I primarily write about web technologies and posts for new developers.
