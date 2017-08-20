@@ -5,10 +5,10 @@ permalink: /about/
 ---
 
 ## Hello!  
-	I study Computer Science and a software developer at Syntel Ltd., Pune India. I have total two years of experience working in software industry.  
-	1. I mostly work in Web Development and host my work on GitHub.
-	2. On this blog I primarily write about web technologies and posts for new developers.
-	3. You can reach me out at saagar.1647@gmail.com
+I study Computer Science and a software developer at Syntel Ltd., Pune India. I have total two years of experience working in software industry.  
+1. I mostly work in Web Development and host my work on GitHub.
+2. On this blog I primarily write about web technologies and posts for new developers.
+3. You can reach me out at saagar.1647@gmail.com
 	
 ### Professional:  
 1. Software Developer at Syntel Ltd. (Feb 23, 2015 - Present)   
