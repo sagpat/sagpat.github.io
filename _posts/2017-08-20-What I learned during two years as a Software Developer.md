@@ -3,7 +3,6 @@ layout: post
 title: "What I learned during two years as a Software Developer"
 ---
 
-## What I learned during two years as a Software Developer
 
 ### Always be Learning:  
 During first three months of my career I understood the thing that, if I have to survive in this industry I need to always be learning. So I started with R Programming, I enjoyed it. Then I learned Scala because a friend was working on it. Finally, I decided to dig deep into Js and learning front end technologies like React and GraphQL.  
