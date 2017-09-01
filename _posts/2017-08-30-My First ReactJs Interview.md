@@ -25,10 +25,10 @@ Me: Clousuer with setTimeout.
 Him: Whatt? (He did not understand.)  
 Me: tried to tell him the code(Btw, It is hard to tell the code over phone)
 
-``` window.setTimeout(function() {     
- console.log("World"); 
- }, 1000); 
- console.log("Hello");
+``` window.setTimeout(function() {   
+ console.log("World");   
+}, 1000);   
+ console.log("Hello");  
 ```
 
 5. Do you know ajax?  
